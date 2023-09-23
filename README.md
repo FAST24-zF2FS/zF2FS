@@ -1,2 +1,2 @@
-# zns_fs
-make file system support ZNS SSD (small/large)
+# zF2FS
+Zone and flash friendly file system
