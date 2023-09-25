@@ -1,2 +1,2 @@
 # zF2FS
-Zone and flash friendly file system
+zF2FS: A Zoned Namespace and Flash-Friendly File System for ZNS SSDs
